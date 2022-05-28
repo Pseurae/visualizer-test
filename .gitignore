@@ -1,0 +1,5 @@
+*.wav
+.vscode
+.vscode/*
+visualizer
+.DS_Store
